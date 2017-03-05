@@ -1,7 +1,7 @@
 # steamlytics-es6
 Creating module to consult api http://steamlytics.xyz/api
 
-###Version: 1.0.0
+###Version: 1.0.1
 
 ##Install
 ```bash
@@ -25,7 +25,7 @@ var api = new steamlytics(version, key) //Default version v1, because to get key
 ###Methods
 1. new steamlytics()
 * getItems().then(callback).catch(callback)
-* getPrices().then(callback).catch(callback)
+* getPrices(nameItem).then(callback).catch(callback)
 * getPopular().then(callback).catch(callback)
 
 ###Note

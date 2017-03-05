@@ -1,6 +1,6 @@
 {
   "name": "steamlytics-es6",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creating module to consult api Steamlytcs.xyz/api",
   "main": "index.js",
   "scripts": {
