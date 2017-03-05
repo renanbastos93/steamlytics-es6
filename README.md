@@ -23,11 +23,13 @@ var api = new steamlytics(version, key) //Default version v1, because to get key
 ```
 
 ###Methods
-1. steamlytics-es6
+1. new steamlytics()
 * getItems().then(callback).catch(callback)
 * getPrices().then(callback).catch(callback)
 * getPopular().then(callback).catch(callback)
 
-####Note
+###Note
  Using module request.
- Using Promise native
+ Using Promise native.
+
+##We are still testing
