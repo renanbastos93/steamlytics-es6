@@ -1,0 +1,35 @@
+{
+  "name": "steamlytics-es6",
+  "version": "1.0.0",
+  "description": "Creating module to consult api Steamlytcs.xyz/api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renanbastos93/steamlytics-es6.git"
+  },
+  "keywords": [
+    "node",
+    "steam",
+    "steam",
+    "api",
+    "steam",
+    "consult",
+    "api",
+    "consult",
+    "items",
+    "consult",
+    "prices"
+  ],
+  "author": "Renan Bastos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renanbastos93/steamlytics-es6/issues"
+  },
+  "homepage": "https://github.com/renanbastos93/steamlytics-es6#readme",
+  "dependencies": {
+    "request": "^2.80.0"
+  }
+}
