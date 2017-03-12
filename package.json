@@ -1,7 +1,7 @@
 {
   "name": "steamlytics-es6",
-  "version": "1.0.1",
-  "description": "Creating module to consult api Steamlytcs.xyz/api",
+  "version": "1.0.2",
+  "description": "Module to consult api http://csgo.steamlytics.xyz/api",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,7 +21,8 @@
     "consult",
     "items",
     "consult",
-    "prices"
+    "prices",
+    "promise"
   ],
   "author": "Renan Bastos",
   "license": "MIT",
